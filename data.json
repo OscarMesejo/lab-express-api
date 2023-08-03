@@ -1,0 +1,65 @@
+{
+    "dragQueens": [
+      {
+        "id": 1,
+        "name": "Bianca Del Rio",
+        "seasons": ["Season 6"],
+        "winCount": 3
+      },
+      {
+        "id": 2,
+        "name": "Aquaria",
+        "seasons": ["Season 10"],
+        "winCount": 4
+      },
+      {
+        "id": 3,
+        "name": "Jinkx Monsoon",
+        "seasons": ["Season 5"],
+        "winCount": 3
+      },
+      {
+        "id": 4,
+        "name": "Sasha Velour",
+        "seasons": ["Season 9"],
+        "winCount": 4
+      },
+      {
+        "id": 5,
+        "name": "Shangela",
+        "seasons": ["Season 2", "Season 3", "All-Stars 3"],
+        "winCount": 0
+      },
+      {
+        "id": 6,
+        "name": "Alyssa Edwards",
+        "seasons": ["Season 5", "All-Stars 2"],
+        "winCount": 1
+      },
+      {
+        "id": 7,
+        "name": "Bob the Drag Queen",
+        "seasons": ["Season 8"],
+        "winCount": 4
+      },
+      {
+        "id": 8,
+        "name": "Trixie Mattel",
+        "seasons": ["Season 7", "All-Stars 3"],
+        "winCount": 2
+      },
+      {
+        "id": 9,
+        "name": "Asia O'Hara",
+        "seasons": ["Season 10"],
+        "winCount": 0
+      },
+      {
+        "id": 10,
+        "name": "Yvie Oddly",
+        "seasons": ["Season 11"],
+        "winCount": 4
+      }
+    ]
+  }
+  
